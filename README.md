@@ -55,4 +55,5 @@ The ArtisanGig project is licensed under the [MIT License](LICENSE).
 # linkedin https://www.linkedin.com/in/jerome-udoh-072756125
 # facebook https://www.facebook.com/jerome.udoh
 # Whatsapp https://wa.me/c/2348088221162
+# website www.jubass.com.ng
 
